@@ -8,3 +8,6 @@ I accepted their changes so it wiped mine.
 
 
 Now this one was put on the branch while i was editing.
+
+
+I have modified this on github
