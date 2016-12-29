@@ -16,3 +16,5 @@ I have modified this in intellij
 
 
 I have modified this on github
+
+This was done using the Merge capability that came up from the failed push attempt.
